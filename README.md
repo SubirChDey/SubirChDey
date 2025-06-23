@@ -37,15 +37,15 @@ I am a **Frontend Developer** from Bangladesh 🇧🇩, passionate about buildin
 ---
 
 ## 🚀 My Projects (Pinned)
-- 🔗 [Library Management System](https://github.com/your-username/library-management)
-- 🔗 [Personal Portfolio Website](https://github.com/your-username/portfolio)
+- 🔗 [Nexsy - Product Hunt Website](https://github.com/SubirChDey/Nexsy-client)
+- 🔗 [Personal Portfolio Website](https://subirdey.com)
 
 ---
 
 ## 📫 Let's Connect
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SubirChDey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subirchdey/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subirdey93@gmail.com)
 
 ---
 
