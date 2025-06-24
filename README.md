@@ -1,4 +1,4 @@
-![Banner](./subir-github-banner.png)
+![Banner](./banner.png)
 # 👋 Hi there, I'm Subir Dey
 
 ### 🚀 Frontend Developer | Passionate Coder | Lifelong Learner
