@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](./banner.png)
+![Banner](./banner2.png)
 
 # 👋 Hi there, I'm Subir Chandra Dey
 
